@@ -1,2 +1,2 @@
 # Faks
-Faks
+Fak
